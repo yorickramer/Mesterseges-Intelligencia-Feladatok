@@ -9,7 +9,7 @@ az élo szervezetek komplexitása valamint a vizsgálati módszerek és a megfig
 
 A feladat egy vírusfertozésre való érzékenységet vizsgáló Bayes-háló kialakítása és az abban való következtetés. A vírusfertozésre való érzékenységhez és egy potenciális vírusfertozés súlyosságához kötődő függőségi kapcsolatokat az alábbi modell írja le: 
 
-- Potenciális vírusfertozés súlyosságát leíró változó ( Virus_sulyossag), amely három értéket vehet fel:
+Potenciális vírusfertozés súlyosságát leíró változó ( Virus_sulyossag), amely három értéket vehet fel:
 {enyhe, közepes, súlyos}.
 
 A vírusfertozés súlyosságát három előozményváltozó befolyásolja: 
