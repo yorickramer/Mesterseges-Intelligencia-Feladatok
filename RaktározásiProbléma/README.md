@@ -1,5 +1,5 @@
 # Mesterseges-Intelligencia-Feladatok
-##Raktározási probléma
+## Raktározási probléma
 
 Legyen adott egy 𝑷 ∈ 𝑁
 𝐿×𝑊 mátrix, amely a raktárban elhelyezett raklapok pozícióját
