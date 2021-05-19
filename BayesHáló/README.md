@@ -45,4 +45,4 @@ A feladat a következo részekre osztható:
 5. Célváltozó eloszlásának (lehetséges értékei valószínuségének) visszaadása eredményként. 
 
 
-Bayes háló és a benne való következtetés megvalósítása.
+Bayes háló és a benne való következtetés megvalósítása java nyelven.
